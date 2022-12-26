@@ -1,0 +1,5 @@
+Name        :  a
+Password  :  1234
+Mobile       :  123
+Email         :  as
+Gender      :  Male
