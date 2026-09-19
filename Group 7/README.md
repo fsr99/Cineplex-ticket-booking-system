@@ -8,9 +8,9 @@ Project Title: Cineplex ticket booking system
 
 Group Members:
 
-AZMIR ISLAM KAFI (22-47981-2)
-
 FARHAN SADIK RUHAN (22-47979-2)
+
+AZMIR ISLAM KAFI (22-47981-2)
 
 MD MUHTADI ISLAM (22-47421-2)
 
