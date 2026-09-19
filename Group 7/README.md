@@ -5,7 +5,7 @@ Project Description: This project is a Java based desktop cinema ticket booking 
 
 Project Title: Cineplex ticket booking system
 
-project Members:
+Project Members:
 
 FARHAN SADIK RUHAN (22-47979-2)
 
